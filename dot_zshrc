@@ -34,7 +34,7 @@ if command -v nvim > /dev/null ; then
   export VISUAL="nvim"
 fi
 
-export LANG="en_GB.UTF-8"
+export LANG="en_US.UTF-8"
 
 
 # ~~~~~~~~~~~~~~~ Mise ~~~~~~~~~~~~~~~~~~~~~~~~

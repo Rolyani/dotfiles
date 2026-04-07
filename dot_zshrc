@@ -78,7 +78,7 @@ fi
 
 if command -v lsd > /dev/null ; then
   alias ls="lsd"
-  alias ll="ls -lgh"
+  alias ll="ls -lah"
   alias la='ls -lathr'
   alias lla='ls -lgha'
   alias lt='ls --tree'
